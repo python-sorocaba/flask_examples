@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tempo em UTC</title>
+    <script type="text/javascript">
+        // Isso aqui está horrível, melhorem em casa por favor! :D
+        setTimeout(function(){
+            window.location.reload(1);
+        }, 5000);
+    </script>
+
+</head>
+
+<body>
+    <p>Hora em UTC: {{ utc_time }}</p>
+    <p>Hora localizada: {{ localized_time }}</p>
+</body>
+
+</html>
