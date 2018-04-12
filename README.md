@@ -1,4 +1,4 @@
-# Primeiro Grupy-SP em Boituva
+# Exemplos simples de Flask
 
 ## Como instalar os requisitos?
 
